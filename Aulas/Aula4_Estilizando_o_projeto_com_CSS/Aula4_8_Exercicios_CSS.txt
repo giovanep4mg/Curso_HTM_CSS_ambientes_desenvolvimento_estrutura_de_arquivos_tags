@@ -3,8 +3,27 @@
 1 - Criando e linkando o arquivo CSS
 Você vai criar um arquivo CSS chamado style.css para estilizar uma página web. Após criar o arquivo, seu objetivo é linkar esse arquivo CSS ao HTML. Para isso, você usará a tag <link> dentro do <head> do documento HTML, especificando o caminho do arquivo CSS. Este processo é crucial para que os estilos definidos no CSS sejam aplicados à página HTML.
 
+        <!DOCTYPE html>
+        <html lang="pt-br"> 
+        <head>
+            <meta charset="UTF-8"> 
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+            <title> Exercício 11 - 4 </title>
+            <!-- CSS -->
+            <link rel="stylesheet" href="./style.css">
+        </head>
+        <body>
+                <h1> Página de Exercícios </h1>
+        </body>
+        </html>
+
 2 - Definindo estilos básicos
 No arquivo CSS, defina a cor de fundo do corpo da página (<body>) para indigo (indigo) e a cor do texto para branco (white). Salve as alterações e verifique no navegador se o fundo da página está na cor indigo (entre o violeta e o azul) e o texto branco.
+
+        body{
+            background-color: indigo;
+            color: white;
+        }
 
 3 - Estilizando com cores e formatos
 Você recebeu o desafio de dar vida a uma página web que atualmente tem apenas HTML. Sua tarefa é utilizar CSS para adicionar cores e formatos aos elementos da página, inspirando-se em um design específico fornecido no Figma. Foque em selecionar cores adequadas para os fundos, textos e bordas, além de aplicar estilos aos botões e cabeçalhos para torná-los visualmente atraentes. Você pode usar como referência essa tabela de nomes de cores.
