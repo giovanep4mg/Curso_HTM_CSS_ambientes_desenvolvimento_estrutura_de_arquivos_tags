@@ -1,0 +1,14 @@
+# Criando o CSS
+
+* Criamos um novo arquivo com o nome "style.css".
+
+* Fazer a ligação do HTML com o CSS:
+-> É bom adicionar dentro da tag "head", colocamos um link, que fará a ligação:
+    < link rel="stylesheet" href="./style.css" >
+
+* Primeiro iremos criar uma cor de fundo para a página:
+
+        body{
+            background-color: black;  --> modifica a cor do fundo da página.
+            color: white;  --> modifica a cor do texto
+        }

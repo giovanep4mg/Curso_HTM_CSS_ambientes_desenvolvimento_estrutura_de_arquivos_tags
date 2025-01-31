@@ -1,0 +1,27 @@
+# Como funciona o CSS
+
+* Para deixar o HTML, mais bonito, adicionando cores, fontes nas escritas, as posições que cada coisa  ficará, entre outras coisas.
+
+* Documentação do CSS:
+https://www.w3schools.com/css/
+
+* O CSS é a sigla para "Cascading Style Sheet" ou "Folhas de Estilo em Cascatas" em português.
+
+## Exemplo:
+
+        body {
+        background-color: lightblue;
+        }
+
+        h1 {
+        color: white;
+        text-align: center;
+        }
+
+        p {
+        font-family: verdana;
+        font-size: 20px;
+        }
+
+* Usamos o CSS como um arquivo separado, mas ligado ao HTML, tipo:
+---> Nome do arquivo :  style.css
