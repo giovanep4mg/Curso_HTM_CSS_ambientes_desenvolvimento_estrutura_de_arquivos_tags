@@ -1,0 +1,10 @@
+# Instalando o VScode
+
+* Os professores mostram como instalar o VScode.
+
+# Criando o projeto:
+* Cria uma pasta com o nome "portfolio".
+* No VScode, escolhe abrir a pasta que foi criada.
+* Cria o primeiro arquivo HTML, com o nome ->> "index.html"  
+-- tecla de atalho para criar ->> crtl + N
+

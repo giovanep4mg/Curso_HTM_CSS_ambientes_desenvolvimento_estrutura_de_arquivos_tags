@@ -1,0 +1,22 @@
+## Preparando o ambiente
+
+As próximas aulas serão baseadas no Figma, que é uma ferramenta de prototipagem de interfaces, onde vamos construir o layout da página do Portfólio. Para acessá-lo, clique aqui.
+
+Para ter a mesma visualização que a da aula, primeiramente é necessário criar uma conta ou fazer login em uma existente. Para isso, entre no site do Figma e clique em Log In (caso já tenha conta) ou em Sign Up (para cadastrar nova conta). Depois de estar com uma conta conectada, acesse o projeto no Figma.
+
+Atenção: Observe que as abas Design e Inspect demonstradas no curso passaram por atualizações recentes no figma e hoje são opções premium, ou seja, pagas. Mas não se preocupe, no figma fornecido você pode pegar as informações dos elementos através da aba Properties! Basta clicar nos componentes e verificar suas propriedades na aba, como demonstrado abaixo:
+
+Tela do Figma com uma lista de opções aparecendo no topo
+
+Caso queira criar uma cópia do layout para a sua conta do Figma, assim garantindo o acesso de edição, entre no link do layout original que está acima e no menu superior da plataforma, clique no nome do arquivo: Portfolio - Curso 1. Irão abrir algumas opções, clique em “Duplicate to your drafts” e o arquivo do projeto estará duplicado para uso próprio.
+
+Tela inicial do Figma ao entrar com a conta conectada
+
+E para demonstrar como uma pessoa desenvolvedora Front-end utiliza o Figma, separamos esse Alura+ com a Rafa Ballerini onde você aprenderá tudo o que é necessário para analisar um documento do Figma para transformá-lo em código, desde a exportação de imagens e ícones até a estilização com CSS.
+
+Ativando o WebGL
+Caso apareça a mensagem: "we can't open that file. We can't open this file because WebGL isn't supported, or is disabled, in your browser. If your browser supports WebGL, check out this help article to find out how to enable it", significa que o WebGl do seu navegador está desativado e você precisa ativá-lo.
+
+No Google Chrome, digite o seguinte na barra de pesquisa: chrome://flags/. Em seguida, pesquise por "WebGL" na lista e ative-o, trocando de Disabled para Enabled. Depois disso, aparecerá um botão para reiniciar o Google Chrome. Reinicie o navegador e pronto.
+
+Se por acaso o seu navegador não for o Google Chrome, o procedimento é semelhante. O WebGL está desativado e precisa ser ativado.

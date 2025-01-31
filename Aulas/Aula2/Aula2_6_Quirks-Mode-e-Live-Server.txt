@@ -1,0 +1,7 @@
+# Quirks Mode e Live Server
+
+* Falando sobre o "Doctype", se estiver usando um html de outra versão, gera um erro não visível.
+
+# Falando sobre as extensões do VScode, sobre o LiveServe
+--> Que abre uma página da web e atualiza sempre que você modifica o código, 
+sem precisar ficar atualizando a página.

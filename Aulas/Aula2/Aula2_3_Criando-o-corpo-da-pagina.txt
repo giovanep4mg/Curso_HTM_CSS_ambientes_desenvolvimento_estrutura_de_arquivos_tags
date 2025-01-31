@@ -1,0 +1,19 @@
+# Criando o corpo da página ->> <body>
+
+* Cria a tag <body> 
+* Dentro dela adiciona um título, para isso usamos a tag "<h1>":
+--->>   <h1> Título </h1> 
+
+* Podemos usar outros "h1" -->> h2, h3, h4, h5, h6. Vai até o h6 !
+
+* Definir um parágrafo, usando a tag " <p> </p> ".
+----   <p>Isso é um parágrafo</p>  ----
+
+* Adiciona a imagem, do logo do HTML, para isso usamos a tag " <img> ".
+----   <img> 
+
+* E usamos uma propriedade " src ", que vai criar um link até a imagem que está na pasta
+---- < img src="./HTML5_logo.png" >
+
+* Temos que descrever a imagem para quem não pode ver, usando a propriedade "alt":
+---   <img src="./HTML5_logo.png" alt="Logo do HTML 5.">

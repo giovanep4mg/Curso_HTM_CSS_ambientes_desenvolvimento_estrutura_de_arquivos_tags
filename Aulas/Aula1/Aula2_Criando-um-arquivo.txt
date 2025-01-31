@@ -1,0 +1,8 @@
+# Criando um arquivo
+
+* Abriu o word e escreveu:
+* Criou um título, "Isso é um Título" 
+* Um parágrafo. "Isso é um parágrafo"
+* Adicionou uma imagem da logo do HTML5. 
+
+# Fala sobre os editores de código, nesse caso usaremos o VScode.

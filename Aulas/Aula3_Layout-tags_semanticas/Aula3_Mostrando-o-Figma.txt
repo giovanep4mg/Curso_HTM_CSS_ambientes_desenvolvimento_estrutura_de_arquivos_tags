@@ -1,0 +1,6 @@
+Uma das mais utilizadas é o Figma, justamente o que estamos usando para desenvolver.
+
+A Isa já nos enviou o link do projeto no Figma e conseguimos ter todo o acesso às informações necessárias para codificarmos as páginas neste curso.
+
+Mostrou uma imagem, que será atela inicial, de onde iremos criar a página.
+Usando a imagem para criar a página.

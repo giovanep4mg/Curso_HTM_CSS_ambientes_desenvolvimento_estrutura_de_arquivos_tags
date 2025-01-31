@@ -1,0 +1,23 @@
+# Tags Semânticas
+
+<!DOCTYPE html>
+<html lang="pt-br"> -->>  " lang="pt-br" "-->>  Diz que a linguagem será "Portugues do Brasil"
+<head> --> Contém metadados
+
+    <meta charset="UTF-8"> -->> Para usarmos os acentos como " ~ ", " ^ ".....
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> --> esta é uma configuração para sempre   utilizarmos sua versão mais recente neste navegador especificamente.
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  --> o nome "viewport" é o próprio dispositivo que acessará nossa página, e obtém sua largura com width=device-width para depois gerar a escala da página com initial-scale, que sempre iniciará com 1.0 com base na tela, seja de celular, Ipad, computador, entre outras.
+
+    <title>Portfolio</title> -->  Título da página, mas só aprece no navegador.
+
+</head>
+<body> -- Corpo da página
+
+    <header></header> -->> Cabeçalho
+    <main></main>  --> Conteúdo principal
+    <footer></footer> -->> Rodapé da página
+
+</body>
+</html>

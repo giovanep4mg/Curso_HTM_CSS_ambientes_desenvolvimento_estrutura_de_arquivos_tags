@@ -1,0 +1,3 @@
+# Preparando o ambiente
+
+* Tutorial Ensina como baixar e instalar o VScode.

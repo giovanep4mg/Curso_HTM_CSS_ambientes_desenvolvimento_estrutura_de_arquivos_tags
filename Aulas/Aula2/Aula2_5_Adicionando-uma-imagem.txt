@@ -1,0 +1,7 @@
+# Pergunta - Desafio
+* mostroou um código e fez algumas perguntas sobreo código.
+
+* Erro do código era isso:
+---- img scr="./HTML5_logo.png" alt="Logo do HTML 5.">
+
+-->> O scr estava errado, o certo é "src", só por isso a imagem não foi carregada!
