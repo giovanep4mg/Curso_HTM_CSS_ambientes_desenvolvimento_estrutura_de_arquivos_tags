@@ -1,0 +1,20 @@
+# Destacar o texto
+
+* Usaremos a tag "strong" que deixa em negrito o texto selecionado.
+
+* Código do CSS que estamos usando no projeto:
+body {
+    background-color: #000000;
+    color: #F6F6F6;
+}
+** Aqui selecionando o "strong" para destacar essa parte do texto na página.
+strong {
+    color: #22D4FD;
+}
+
+*Como fica o código, no html:
+<h1>Eleve seu negócio digital a outro nível <strong>com um Front-end de qualidade!</strong></h1>
+
+* A mudança vai acontecer apenas na tag "strong"
+
+* Podemos usar também a tag "span" ao contrário do strong, o texto não ficará em negrito.

@@ -1,4 +1,12 @@
 # Cores no CSS
 
+* Podemos usar várias formas de declarar o uso da cor:
+-- com o nome --> black.
+-- usando número --> #00000.
+
+que são as mesma cores mais declaradas diferentes.
+
+* Pesquise em site, que falam sobre as cores para te ajudar a entender mais sobre isso, como usar, quais são as melhores.
+
 
 
